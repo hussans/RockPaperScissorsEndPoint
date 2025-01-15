@@ -6,9 +6,9 @@
 <br/>
 **Description**: This API randomizes between the five options (Rock, Paper, Scissors, Lizard, or Spock) and displays a randomly selected choice as the computer's move in the game. 
 <br/>
-**Peer**:
+**Peer**: Roy Cade (Trey)
 <br/>
-**Review**:
+**Review**: It worked properly for me, Good job!
 <br/>
 <br/>
 **GitHub**: https://github.com/hussans/AllInOneAPI](https://github.com/hussans/RockPaperScissorsEndPoint
