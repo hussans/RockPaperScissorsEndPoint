@@ -7,6 +7,10 @@ namespace RockPaperScissorsEndPoint.Services
 {
     public class GameServices
     {
-        
+        public string CPUChoice()
+        {
+            string[] choices = { "Rock", "Paper", "Scissors", "Lizard", "Spock" };
+            return choices[new Random().Next(5)];
+        }
     }
 }

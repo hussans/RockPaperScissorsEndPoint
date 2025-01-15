@@ -11,7 +11,7 @@ namespace RockPaperScissorsEndPoint.Controllers
     [Route("[controller]")]
     public class GameController : ControllerBase
     {
-        public readonly GameServices _gameServices;
+        private readonly GameServices _gameServices;
 
         public GameController(GameServices gameServices)
         {
@@ -19,8 +19,10 @@ namespace RockPaperScissorsEndPoint.Controllers
         }
 
         [HttpGet]
-        [Route("RockPaperScissor")]
-
-        
+        [Route("RockPaperScissors")]
+        public string CPUChoice()
+        {
+            return _gameServices.CPUChoice();
+        }
     }
 }

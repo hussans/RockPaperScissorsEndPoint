@@ -1,0 +1,11 @@
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/RockPaperScissorsEndPoint
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/appsettings.json
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/RockPaperScissorsEndPoint.dll
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/RockPaperScissorsEndPoint.deps.json
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/RockPaperScissorsEndPoint.runtimeconfig.json
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/RockPaperScissorsEndPoint.pdb
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hassan/Documents/codestack/level two/Week 2/RockPaperScissorsEndPoint/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
