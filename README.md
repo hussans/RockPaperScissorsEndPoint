@@ -11,4 +11,4 @@
 **Review**:
 <br/>
 <br/>
-**GitHub**: https://github.com/hussans/AllInOneAPI](https://github.com/hussans/RockPaperScissorsEndPoint
+**GitHub**: https://github.com/hussans/RockPaperScissorsEndPoint
